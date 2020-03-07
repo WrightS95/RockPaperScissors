@@ -15,7 +15,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/RockPaperScissors" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1YjF9ewB3rHBZnG64CZeEKhYue3" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -70,10 +70,10 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="429" y="270" key="FileChooserDialogImpl" timestamp="1583553863802">
+    <state x="429" y="270" key="FileChooserDialogImpl" timestamp="1583555537369">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
-    <state x="429" y="270" key="FileChooserDialogImpl/0.0.1280.984@0.0.1280.984" timestamp="1583553863802" />
+    <state x="429" y="270" key="FileChooserDialogImpl/0.0.1280.984@0.0.1280.984" timestamp="1583555537369" />
     <state width="1183" height="185" key="GridCell.Tab.0.bottom" timestamp="1583549936905">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
@@ -90,10 +90,10 @@
       <screen x="0" y="0" width="1280" height="984" />
     </state>
     <state width="1183" height="185" key="GridCell.Tab.0.right/0.0.1280.984@0.0.1280.984" timestamp="1583549936905" />
-    <state x="150" y="147" key="SettingsEditor" timestamp="1583552091147">
+    <state x="150" y="147" key="SettingsEditor" timestamp="1583555929756">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
-    <state x="150" y="147" key="SettingsEditor/0.0.1280.984@0.0.1280.984" timestamp="1583552091147" />
+    <state x="150" y="147" key="SettingsEditor/0.0.1280.984@0.0.1280.984" timestamp="1583555929756" />
     <state x="0" y="629" key="com.intellij.ide.util.TipDialog" timestamp="1583452507819">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
